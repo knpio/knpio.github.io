@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://knpio.github.io/reX/sitemap.reX.gz
